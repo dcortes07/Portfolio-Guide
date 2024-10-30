@@ -1,24 +1,37 @@
-## 🙋🏻‍♀️ Introducing Myself
+# 🗺 Diana's Portfolio
+
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+
+## 📚 Table of Contents
 
 
-Hello, I'm Diana. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+# Data Engineering
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
 
-### 📚 Projects
+***
 
-Welcome to my portfolio, where I showcase my [projects].
+# SQL
 
-### 🛠️ Tools
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
-- Data Transformation: dbt
 
-### 👋🏻 Connect with Me
+***
 
-- [Linkedin](https://www.linkedin.com/in/diana-cortes-9b5a27a7/)
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+
+***
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+
+
+***
+
